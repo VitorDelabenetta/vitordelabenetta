@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá! É bom te ver por aqui
 
-<!--
-**VitorDelabenetta/vitordelabenetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👦🏻 Pronomes: ele/dele
+- 🎓 Estudante de Psicologia
+- 📚 Estudando front-end de forma autodidata
+<br>
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/vitordelabenetta"><img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitordelabenetta&show_icons=true&theme=dark"/>
+</div>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px">
+<br>
+<h4>
+  Contatos:
+</h4>
+<div>
+  <a href="www.linkedin.com/in/gabriel-delabenetta"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
