@@ -12,12 +12,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px">
 <br>
-<h4>
-  Contatos:
-</h4>
-<div>
-  <a href="www.linkedin.com/in/gabriel-delabenetta"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px"></a>
-</div>
 
 ##
 
+<h4>
+  Contatos:
+</h4>
+<a href="www.linkedin.com/in/gabriel-delabenetta"><img src="https://img.icons8.com/fluency/344/linkedin.png" height="40px"></a>
+<a href="mailto:delabenettag@gmail,com"><img src="https://img.icons8.com/arcade/344/experimental-email-open-arcade.png" height="40px"></a>
