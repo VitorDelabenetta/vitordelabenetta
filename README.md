@@ -16,7 +16,6 @@
 ##
 
 <h4>
-  Contatos:
+  Siga-me nas redes sociais:
 </h4>
-  <a href="mailto:delabenettag@gmail,com"><img src="https://img.icons8.com/color/344/gmail-new.png" height="40px"></a>
   <a href="https://www.instagram.com/invites/contact/?i=uyo65s6sqplr&utm_content=38k99yt"><img src="https://img.icons8.com/color/344/instagram-new--v1.png" height="42px"></a>
