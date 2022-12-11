@@ -9,9 +9,11 @@
   <a href="https://github.com/vitordelabenetta"><img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitordelabenetta&show_icons=true&theme=dark"/>
 </div>
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px">
-<br>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" height="49px">
+</div>
 
 ##
 
