@@ -6,7 +6,7 @@
 <br>
 
 <div>
-  <a href="https://github.com/vitordelabenetta"><img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitordelabenetta&show_icons=true&theme=dark"/>
+  <a href="https://github.com/VitorDelabenetta"><img height="180cm" src="https://github-readme-stats.vercel.app/api?username=VitorDelabenetta&show_icons=true&theme=dark"/>
 </div>
 <br>
 <div>
