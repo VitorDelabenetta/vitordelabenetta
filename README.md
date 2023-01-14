@@ -1,23 +1,18 @@
-## Olá! É bom te ver por aqui
+# 🦊 Olá, bem-vindo ao meu perfil!
+👦🏻 Pronomes: ele/dele<br>
+🎓 Estudante de Psicologia<br>
+💻 Estudando Análise e Desenvolvimento de Sistemas
 
-- 👦🏻 Pronomes: ele/dele
-- 🎓 Estudante de Psicologia
-- 📚 Estudando front-end de forma autodidata
-<br>
+## 🌐 Aproveite para conectar:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel_delabenetta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-d-444a06181) 
 
-<div>
-  <a href="https://github.com/VitorDelabenetta"><img height="180cm" src="https://github-readme-stats.vercel.app/api?username=VitorDelabenetta&show_icons=true&theme=dark"/>
-</div>
-<br>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" height="49px">
-</div>
+## 💻 Tecnologias & Outros:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-##
+## 📊 Status do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=VitorDelabenetta&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDelabenetta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<h4>
-  Siga-me nas redes sociais:
-</h4>
-  <a href="https://www.instagram.com/invites/contact/?i=uyo65s6sqplr&utm_content=38k99yt"><img src="https://img.icons8.com/color/344/instagram-new--v1.png" height="42px"></a>
+
+<!-- Criado, com modificações, a partir do GPRM ( https://gprm.itsvg.in ) -->
