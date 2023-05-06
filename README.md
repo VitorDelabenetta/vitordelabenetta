@@ -1,7 +1,7 @@
 # 🦊 Olá, bem-vindo ao meu perfil!
 👦🏻 Pronomes: ele/dele<br>
 🎓 Estudante de Psicologia<br>
-💻 Estudando Análise e Desenvolvimento de Sistemas
+💻 Estudando Programação
 
 ## 🌐 Aproveite para conectar:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel_delabenetta)
