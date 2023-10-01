@@ -13,7 +13,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Java](https://img.shields.io/badge/java-%23D92322.svg?style=for-the-badge&logo=java&logoColor=white)
 <br>
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-E53F71?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%2305A65B.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
