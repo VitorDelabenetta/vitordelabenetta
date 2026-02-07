@@ -27,7 +27,8 @@ public class Eu extends Desenvolvedor {
 ![Figma](https://img.shields.io/badge/figma-A259FF.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 Status do GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDelabenetta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=VitorDelabenetta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) -->
+<!--![Versel sem suporte](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDelabenetta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
+[![](https://github-readme-stats-fast.vercel.app/api?username=VitorDelabenetta&show_icons=true&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 
 <!-- Criado, com modificações, a partir do GPRM ( https://gprm.itsvg.in ) -->
